@@ -1,5 +1,7 @@
 # vue-demo2
 
+## vuex的练习案例
+
 ## Project setup
 ```
 npm install
